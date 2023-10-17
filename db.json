@@ -1,0 +1,49 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "React",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+      "embedLink": "https://www.youtube.com/embed/FxgM9k1rg0Q"
+    },
+    {
+      "id": "1",
+      "caption": "Angular",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png",
+      "embedLink": "https://www.youtube.com/embed/3qBXWUpoPHo"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "FrontEnd",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Angular",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png",
+          "embedLink": "https://www.youtube.com/embed/3qBXWUpoPHo"
+        },
+        {
+          "id": "2",
+          "caption": "React",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+          "embedLink": "https://www.youtube.com/embed/FxgM9k1rg0Q"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "BackEnd",
+      "allVideos": [],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "React",
+      "embedLink": "https://www.youtube.com/embed/FxgM9k1rg0Q",
+      "timestamp": "10/15/2023, 08:40:43 PM",
+      "id": 1
+    }
+  ]
+}
